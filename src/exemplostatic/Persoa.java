@@ -49,6 +49,6 @@ public class Persoa {
         numPersoas ++;
     }*/
     public void visualizar (){
-        JOptionPane.showMessageDialog(null, "Nome: "  + nome + " \nIdade: " + edade + "\nNum de persoas: " + numPersoas);
+        JOptionPane.showMessageDialog(null, "Nome: "  + nome + " Idade: " + edade + "\nNum de persoas: " + numPersoas);
     }
 }
